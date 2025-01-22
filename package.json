@@ -15,8 +15,7 @@
     "postversion": "git push && git push --tags"
   },
   "keywords": [
-    "quidax",
-    "endpoints"
+    "quidax"
   ],
   "author": "Balogun Silver",
   "license": "ISC",
