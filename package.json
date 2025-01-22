@@ -1,6 +1,6 @@
 {
   "name": "quidax-sdk",
-  "version": "1.0.43",
+  "version": "1.0.0",
   "description": "quidax sdk",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
